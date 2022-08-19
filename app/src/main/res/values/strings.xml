@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="nickres">Hello World! My name is Nick I love android and the glory of the Roman Republic.</string>
+    <string name="say_hello">Say Hello</string>
+</resources>
