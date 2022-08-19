@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgflip.com/gif/6qf2rd.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgflip.com/gif/6qf2rd.gif' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
 
 <imgflip.com>
 GIF created with [imgflip](https://imgflip.com/gif-maker).  
